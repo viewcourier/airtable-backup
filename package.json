@@ -1,0 +1,10 @@
+{
+  "name": "airtable-backup",
+  "version": "1.0.0",
+  "description": "Zero-dependency CLI that exports every table of an Airtable base to CSV, saves the schema and optionally downloads attachments",
+  "license": "MIT",
+  "type": "module",
+  "bin": { "airtable-backup": "airtable-backup.mjs" },
+  "scripts": { "test": "node --test test/backup.test.mjs" },
+  "engines": { "node": ">=18" }
+}
