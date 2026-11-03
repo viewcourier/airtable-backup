@@ -4,7 +4,7 @@
 //
 //   AIRTABLE_TOKEN=... node airtable-backup.mjs --base appXXXXXXXXXXXXXX [--out dir] [--attachments] [--safe]
 //
-// Copyright (c) 2026 BASIT B.V. - MIT License
+// Copyright (c) 2026 ViewCourier - MIT License
 
 import fs from 'node:fs';
 import path from 'node:path';
