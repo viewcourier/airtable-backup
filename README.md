@@ -129,4 +129,4 @@ AIRTABLE_TOKEN=... node test/verify.mjs --base appXXXXXXXXXXXXXX --out /some/emp
 
 ## License
 
-MIT. Copyright (c) 2026 BASIT B.V.
+MIT. Copyright (c) 2026 ViewCourier
